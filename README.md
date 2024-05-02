@@ -19,7 +19,8 @@ Join me on this exciting quest as we explore the boundless possibilities that te
 
 ---
 
-<!--- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ideateGudy&show_icons=true&include_all_commits=true&hide_border=true" alt="ideateGudy's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideateGudy&langs_count=8&layout=compact&hide_border=true" alt="ideateGudy's GitHub stats" /> |
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ideateGudy&show_icons=true&include_all_commits=true&hide_border=true" alt="ideateGudy's GitHub stats" /> 
+ <!--- | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideateGudy&langs_count=8&layout=compact&hide_border=true" alt="ideateGudy's GitHub stats" /> |
 | ------------- | ------------- |
 
 -->
