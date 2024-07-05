@@ -15,7 +15,7 @@ Join me on this exciting quest as we explore the boundless possibilities that te
 - 🌱 I’m currently learning JavaScript, Linux, Nodejs, Terraform, Ansible, Aws, GCP, Azure and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, DevOps/Cloud Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing azonubigoodnews@gmail.com.
+- 📫 You can [view my resume](https://my-resume-beta-eight.vercel.app/) and contact me by emailing azonubigoodnews@gmail.com.
 
 ---
 
