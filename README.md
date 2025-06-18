@@ -13,7 +13,7 @@ A recent Graduate of Computer Science at Delta State University Abraka, and a Cl
 - 🌱 I’m currently expanding my knowledge in Full Stack Development and Devops.
 - 😊 I’m actively seeking opportunities to contribute to open source projects, join hackathons, and explore entry-level roles.
 - 💼 Job interests: Software Engineer, DevOps Engineer, Backend Engineer.
-- 📫 You can [view my resume](https://drive.google.com/file/d/1ojCt3C7Zv1DLevTzYE5W1dcXbd7rvz9B/view?usp=drivesdk) or contact me at azonubigoodnews@gmail.com.
+- 📫 You can [view my cv](https://drive.google.com/file/d/1ojCt3C7Zv1DLevTzYE5W1dcXbd7rvz9B/view?usp=drivesdk) or contact me at azonubigoodnews@gmail.com.
 
 ---
 
