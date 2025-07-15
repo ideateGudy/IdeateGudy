@@ -4,7 +4,7 @@
 
 # Full-Stack Developer 👨🏽‍💻
 
-A recent Graduate of Computer Science at Delta State University Abraka, and a Cloud/Devops Engineering Graduate at AltSchool Africa. 
+A Graduate of Computer Science at Delta State University Abraka, and a Cloud/Devops Engineering Graduate at AltSchool Africa. 
 
 **Here's a quick summary about me**:
 
