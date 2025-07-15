@@ -9,7 +9,7 @@ A recent Graduate of Computer Science at Delta State University Abraka, and a Cl
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I believe curiosity is my superpower💪🏽
+- 💡 Fun fact: I believe curiosity is my superpower💪🏽.
 - 🌱 I’m currently expanding my knowledge in Full Stack Development and Devops.
 - 😊 I’m actively seeking opportunities to contribute to open source projects, join hackathons, and explore entry-level roles.
 - 💼 Job interests: Software Engineer, DevOps Engineer, Backend Engineer.
