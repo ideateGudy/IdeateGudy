@@ -1,4 +1,4 @@
-# Hello there; welcome 👋🏾 
+# Hello there; welcome 👋🏾
 
 [![Website Badge](https://img.shields.io/badge/-ideategudy-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://mainstack.me/ideategudy)](https://mainstack.me/ideategudy) [![Linkedin Badge](https://img.shields.io/badge/-ideateGudy-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ideategudy)](https://www.linkedin.com/in/ideategudy) [![Twitter Badge](https://img.shields.io/badge/-@ideateGudy-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ideateGudy)](https://twitter.com/ideateGudy)
 
