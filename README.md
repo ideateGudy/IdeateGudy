@@ -2,17 +2,15 @@
 
 [![Website Badge](https://img.shields.io/badge/-ideategudy-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://mainstack.me/ideategudy)](https://mainstack.me/ideategudy) [![Linkedin Badge](https://img.shields.io/badge/-ideateGudy-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ideategudy)](https://www.linkedin.com/in/ideategudy) [![Twitter Badge](https://img.shields.io/badge/-@ideateGudy-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ideateGudy)](https://twitter.com/ideateGudy)
 
-# Full-Stack Developer 👨🏽‍💻
-
-A Graduate of Computer Science at Delta State University Abraka, and a Cloud/Devops Engineering Graduate at AltSchool Africa. 
+# Full-Stack Developer (Mobile/Web) 👨🏽‍💻
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him.
 - 💡 Fun fact: I believe curiosity is my superpower💪🏽.
-- 🌱 I’m currently expanding my knowledge in Full Stack Development and Devops.
-- 😊 I’m actively seeking opportunities to contribute to open source projects, join hackathons, and explore entry-level roles.
-- 💼 Job interests: Software Engineer, DevOps Engineer, Backend Engineer.
+- 🌱 I’m currently expanding my knowledge in Full Stack Development.
+- 😊 I’m actively seeking opportunities to contribute to open source projects and join hackathons.
+- 💼 Job interests: Software Engineer, Backend Developer, Mobile App Developer (Flutter).
 - 📫 You can [view my cv](https://drive.google.com/file/d/1thie1AhsHDtp5fJNJaDoPT8r3oKUGmkE/view?usp=drivesdk) or contact me at azonubigoodnews@gmail.com.
 
 ---
