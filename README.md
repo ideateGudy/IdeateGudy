@@ -11,7 +11,8 @@
 - 🌱 I’m currently expanding my knowledge in Full Stack Development.
 - 😊 I’m actively seeking opportunities to contribute to open source projects and join hackathons.
 - 💼 Job interests: Software Engineer, Backend Developer (NestJs/AWS), Mobile App Developer (Flutter).
-- 📫 You can [view my cv](https://drive.google.com/file/d/1thie1AhsHDtp5fJNJaDoPT8r3oKUGmkE/view?usp=drivesdk) or contact me at azonubigoodnews@gmail.com.
+- 📫 You can <a href="https://drive.google.com/file/d/1thie1AhsHDtp5fJNJaDoPT8r3oKUGmkE/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">View my CV</a>
+ or contact me at azonubigoodnews@gmail.com.
 
 ---
 
