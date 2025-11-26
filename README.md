@@ -11,6 +11,7 @@
 - 🌱 I’m currently expanding my knowledge in Full Stack Development.
 - 😊 I’m actively seeking opportunities to contribute to open source projects and join hackathons.
 - 💼 Job interests: Software Engineer, Backend Developer (NestJs/AWS), Mobile App Developer (Flutter).
+- My Blog Posts: [Dev.to](https://dev.to/ideategudy)
 - 📫 You can [view my cv](https://drive.google.com/drive/folders/1omCyrdGFHQKLjJsxdZI6gwwMFxMqGhG0) or contact me at azonubigoodnews@gmail.com.
 
 ---
