@@ -11,10 +11,6 @@
 
 ---
 
-## 🚀 About Me
-
-I build **scalable, production-ready applications** and turn ideas into impactful digital products. With expertise in full-stack and mobile development, I focus on delivering clean, efficient, and maintainable code.  
-
 **Core Expertise:**  
 - **Backend:** Node.js, Express, NestJS, AWS Serverless  
 - **Mobile & Frontend:** Flutter, TypeScript, AngularJS  
