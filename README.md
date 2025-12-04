@@ -1,7 +1,7 @@
 # 👨🏽‍💻 Full-Stack & Mobile Engineer | Node.js • TypeScript • AWS Serverless • Flutter
 
-[![LinkedIn Badge](https://img.shields.io/badge/-ideateGudy-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ideategudy)
-[![Twitter Badge](https://img.shields.io/badge/-@ideateGudy-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ideateGudy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ideategudy)
+[![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ideateGudy)
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]
