@@ -1,5 +1,4 @@
-# 💡 Turning Ideas Into Scalable Products
-## 👨🏽‍💻 Full-Stack & Mobile Engineer | Node.js • TypeScript • AWS Serverless • Flutter
+# 👨🏽‍💻 Full-Stack & Mobile Engineer | Node.js • TypeScript • AWS Serverless • Flutter
 
 [![Website Badge](https://img.shields.io/badge/-ideategudy-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://mainstack.me/ideategudy)
 [![LinkedIn Badge](https://img.shields.io/badge/-ideateGudy-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ideategudy)
@@ -20,9 +19,9 @@ I build **scalable, production-ready applications** and turn ideas into impactfu
 **Core Expertise:**  
 - **Backend:** Node.js, Express, NestJS, AWS Serverless  
 - **Mobile & Frontend:** Flutter, TypeScript, AngularJS  
-- **Software Engineering:** System Architecture, API Design, Cloud Integration, Performance Optimization  
+- **Software Engineering:** System Architecture, API Design, Cloud Integration
 
-**Writing & Knowledge Sharing:** I regularly write technical articles to share insights and best practices with the developer community.  
+**Writing:** I write technical articles to share insights and best practices with the developer community.  
 - **Blog:** [Dev.to](https://dev.to/ideategudy)  
 
 **Contact:**  
