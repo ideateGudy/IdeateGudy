@@ -13,7 +13,7 @@ I build **scalable, production-ready applications** and transform ideas into imp
 
 **Core Expertise:**  
 - **Backend:** Node.js, Express, NestJS, AWS Serverless  
-- **Mobile & Frontend:** Flutter, TypeScript, Modern Web Technologies  
+- **Mobile & Frontend:** Flutter, TypeScript, AngularJs
 - **Software Engineering:** Architecture, APIs, Cloud Integration, Performance Optimization  
 
 **Community & Open Source:** Actively contribute to open-source projects, collaborate on hackathons, and share knowledge through technical articles.  
