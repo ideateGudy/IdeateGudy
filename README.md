@@ -7,20 +7,21 @@
 
 ---
 
-## 👋 About Me
+## 🚀 About Me
 
-- **Pronouns:** He/Him  
-- **Fun Fact:** Curiosity is my greatest superpower 💪🏽  
-- **Currently Learning:** Full Stack Development  
-- **Expertise & Interests:**  
-  - Backend Development: Express, NestJS, AWS Serverless  
-  - Mobile Development: Flutter  
-  - Full-Stack Application Development  
-- **Community:** Open to contributing to open-source projects and joining hackathons  
-- **Blog:** [Dev.to](https://dev.to/ideategudy)  
-- **Contact:**  
-  - 📄 [View my CV](https://drive.google.com/drive/folders/1omCyrdGFHQKLjJsxdZI6gwwMFxMqGhG0)  
-  - 📧 azonubigoodnews@gmail.com  
+I build **scalable, production-ready applications** and transform ideas into impactful products. With expertise in full-stack and mobile development, I focus on delivering clean, efficient, and maintainable code.  
+
+**Core Expertise:**  
+- **Backend:** Node.js, Express, NestJS, AWS Serverless  
+- **Mobile & Frontend:** Flutter, TypeScript, Modern Web Technologies  
+- **Software Engineering:** Architecture, APIs, Cloud Integration, Performance Optimization  
+
+**Community & Open Source:** Actively contribute to open-source projects, collaborate on hackathons, and share knowledge through technical articles.  
+
+**Blog:** [Dev.to](https://dev.to/ideategudy)  
+**Contact:**  
+- 📄 [View my CV](https://drive.google.com/drive/folders/1omCyrdGFHQKLjJsxdZI6gwwMFxMqGhG0)  
+- 📧 azonubigoodnews@gmail.com  
 
 ---
 
