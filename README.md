@@ -20,7 +20,7 @@
 - **Blog:** [Dev.to](https://dev.to/ideategudy)  
 
 **Contact:**  
-- 📄 [View my CV](https://drive.google.com/drive/folders/1omCyrdGFHQKLjJsxdZI6gwwMFxMqGhG0)  
+- 📄 [View my CV](https://drive.google.com/file/d/1COCidZfWWEiPJMEFqac7rt3E85TQIzyd/view?usp=drive_link)  
 - 📧 azonubigoodnews@gmail.com  
 
 ---
