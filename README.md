@@ -39,5 +39,14 @@
 
 ## 📊 GitHub Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=ideateGudy&show_icons=true&include_all_commits=true&hide_border=true" alt="ideateGudy's GitHub stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideategudy&layout=compact&hide_border=true" alt="Top Languages" /> |
-| --- | --- |
+
+---
+
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ideateGudy&show_icons=true&include_all_commits=true&hide_border=true" alt="ideateGudy's GitHub stats" /> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideategudy)](https://github.com/ideategudy/github-readme-stats) |
+ | ------------- | ------------- |
+ 
+ <!--- | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideateGudy&langs_count=8&layout=compact&hide_border=true" alt="ideateGudy's GitHub stats" /> |
+| ------------- | ------------- |
+
+-->
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideategudy)](https://github.com/ideategudy/github-readme-stats) -->
