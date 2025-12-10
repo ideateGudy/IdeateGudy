@@ -41,6 +41,9 @@
 | ![GitHub followers](https://img.shields.io/github/followers/ideategudy?label=Followers&style=for-the-badge) | ![GitHub stars](https://img.shields.io/github/stars/ideategudy?style=for-the-badge) |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 
+![Profile Summary](https://github.com/ideategudy/ideategudy/workflows/Profile%20Summary/badge.svg)
+
+
  
  <!--- | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideateGudy&langs_count=8&layout=compact&hide_border=true" alt="ideateGudy's GitHub stats" /> |
 | ------------- | ------------- |
