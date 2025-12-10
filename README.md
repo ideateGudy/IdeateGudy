@@ -38,8 +38,8 @@
 ---
 ## 📊 GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ideategudy&show_icons=true&include_all_commits=true&hide_border=true" alt="ideategudy's GitHub stats" /> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideategudy)](https://github.com/ideategudy/github-readme-stats) |
-| ------------- | ------------- |
+| ![GitHub followers](https://img.shields.io/github/followers/ideategudy?label=Followers&style=for-the-badge) | ![GitHub stars](https://img.shields.io/github/stars/ideategudy?style=for-the-badge) |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 
  
  <!--- | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideateGudy&langs_count=8&layout=compact&hide_border=true" alt="ideateGudy's GitHub stats" /> |
