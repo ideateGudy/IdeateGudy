@@ -36,17 +36,15 @@
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]
 
 ---
+
 ## 📊 GitHub Stats
 
-| ![GitHub followers](https://img.shields.io/github/followers/ideategudy?label=Followers&style=for-the-badge) | ![GitHub stars](https://img.shields.io/github/stars/ideategudy?style=for-the-badge) |
-| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Followers | Stars | Forks | Last Commit |
+|-----------|-------|-------|-------------|
+| ![Followers](https://img.shields.io/github/followers/ideategudy?label=Followers&style=for-the-badge) | ![Stars](https://img.shields.io/github/stars/ideategudy?style=for-the-badge) | ![Forks](https://img.shields.io/github/forks/ideategudy?style=for-the-badge) | ![Last Commit](https://img.shields.io/github/last-commit/ideategudy?style=for-the-badge) |
 
-![Profile Summary](https://github.com/ideategudy/ideategudy/workflows/Profile%20Summary/badge.svg)
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ideategudy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ideategudy&layout=compact&hide_border=true)](https://github.com/ideategudy/github-readme-stats) |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------ |
 
 
- 
- <!--- | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideateGudy&langs_count=8&layout=compact&hide_border=true" alt="ideateGudy's GitHub stats" /> |
-| ------------- | ------------- |
- 
--->
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideategudy)](https://github.com/ideategudy/github-readme-stats) -->
