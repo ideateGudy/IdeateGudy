@@ -36,14 +36,11 @@
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]
 
 ---
-
 ## 📊 GitHub Stats
 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ideategudy&show_icons=true&include_all_commits=true&hide_border=true" alt="ideategudy's GitHub stats" /> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideategudy)](https://github.com/ideategudy/github-readme-stats) |
+| ------------- | ------------- |
 
----
-
- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ideateGudy&show_icons=true&include_all_commits=true&hide_border=true" alt="ideateGudy's GitHub stats" /> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideategudy)](https://github.com/ideategudy/github-readme-stats) |
- | ------------- | ------------- |
  
  <!--- | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideateGudy&langs_count=8&layout=compact&hide_border=true" alt="ideateGudy's GitHub stats" /> |
 | ------------- | ------------- |
