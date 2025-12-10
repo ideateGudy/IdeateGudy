@@ -42,4 +42,16 @@
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ideategudy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ideategudy&layout=compact&hide_border=true)](https://github.com/ideategudy/github-readme-stats) |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------ |
 
+## 📊 GitHub Stats
+
+![Followers](https://img.shields.io/github/followers/ideategudy?label=Followers&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/ideategudy?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/ideategudy?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/ideategudy?style=for-the-badge)
+
+## 📈 GitHub Activity Graph
+
+![GitHub Contributions](https://ghchart.rshah.org/ideategudy)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ideategudy&layout=compact&hide_border=true)
 
