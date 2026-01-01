@@ -43,7 +43,7 @@
 | ----------------------------------------------------------- | ------------------------------------------------------------------------ |
 
 
-## 📈 GitHub Activity Graph
+## 📈 GitHub Activity Graph:
 
 ![GitHub Contributions](https://ghchart.rshah.org/ideategudy)
 
