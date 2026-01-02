@@ -15,7 +15,6 @@
 **Core Expertise:**  
 - **Backend:** Node.js, Express, NestJS, AWS Serverless  
 - **Mobile & Frontend:** Flutter, TypeScript, AngularJS  
-- **Software Engineering:** System Architecture, API Design, Cloud Integration
 
 **Writing:** I write technical articles to share insights and best practices with the developer community.  
 - **Blog:** [Dev.to](https://dev.to/ideategudy)  
