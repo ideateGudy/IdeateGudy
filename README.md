@@ -52,6 +52,11 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ideategudy&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
+## 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ideategudy&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ## 📈 GitHub Activity Graph:
 
