@@ -58,8 +58,3 @@
 ![GitHub Calendar](https://ghchart.rshah.org/409ba5/ideategudy)
 
 ---
-
-## 📈 GitHub Activity Graph:
-
-![GitHub Contributions](https://ghchart.rshah.org/ideategudy)
-
