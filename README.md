@@ -58,6 +58,12 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/ideategudy/ideategudy/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📈 GitHub Activity Graph:
 
 ![GitHub Contributions](https://ghchart.rshah.org/ideategudy)
