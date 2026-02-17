@@ -52,11 +52,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ideategudy&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
-## 📊 GitHub Metrics
-
-![Metrics](https://metrics.lecoq.io/ideategudy?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0)
-
----
 
 ## 📅 Contribution Calendar
 
