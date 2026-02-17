@@ -14,7 +14,8 @@
 
 **Core Expertise:**  
 - **Backend:** Node.js, Express, NestJS, AWS Serverless, Firebase, Supabase  
-- **Mobile & Frontend:** Flutter, TypeScript, ReactJS  
+- **Frontend:**  ReactJS, TypeScript
+- **Mobile**: Flutter
 
 ---
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
