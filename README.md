@@ -64,6 +64,38 @@
 
 ---
 
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=ideategudy&style=for-the-badge)
+
+---
+
+## ⏱️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+## 📊 GitHub Metrics
+
+![Metrics](https://metrics.lecoq.io/ideategudy?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0)
+
+---
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideategudy&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📅 Contribution Calendar
+
+![GitHub Calendar](https://ghchart.rshah.org/409ba5/ideategudy)
+
+---
+## Profile
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+
+---
+
 ## 📈 GitHub Activity Graph:
 
 ![GitHub Contributions](https://ghchart.rshah.org/ideategudy)
