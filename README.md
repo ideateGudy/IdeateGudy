@@ -17,11 +17,11 @@
 - **Mobile & Frontend:** Flutter, TypeScript, ReactJS  
 
 ---
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
 - **Blog:** [Dev.to](https://dev.to/ideategudy)
 
 ---
-
 **Contact:**  
 - 📄 [View my CV](https://drive.google.com/file/d/1COCidZfWWEiPJMEFqac7rt3E85TQIzyd/view?usp=drive_link)  
 - 📧 azonubigoodnews@gmail.com  
@@ -52,47 +52,15 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ideategudy&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ideategudy&theme=darkhub&no-frame=true&margin-w=15)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/ideategudy/ideategudy/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=ideategudy&style=for-the-badge)
-
----
-
-## ⏱️ Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
 ## 📊 GitHub Metrics
 
 ![Metrics](https://metrics.lecoq.io/ideategudy?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0)
-
----
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideategudy&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 📅 Contribution Calendar
 
 ![GitHub Calendar](https://ghchart.rshah.org/409ba5/ideategudy)
-
----
-## Profile
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
 ---
 
