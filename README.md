@@ -47,6 +47,11 @@
 | ----------------------------------------------------------- | ------------------------------------------------------------------------ |
 
 ---
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ideategudy&hide_border=true)](https://git.io/streak-stats)
+
+---
 
 ## 📈 GitHub Activity Graph:
 
