@@ -53,7 +53,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ideategudy&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ideategudy&theme=sakura-x&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
+---
 ## 📅 Contribution Calendar
 
 ![GitHub Calendar](https://ghchart.rshah.org/409ba5/ideategudy)
