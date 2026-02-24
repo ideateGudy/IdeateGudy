@@ -41,7 +41,6 @@
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=ideategudy&color=blue)
 ## 📊 GitHub Stats
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ideategudy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ideategudy&layout=compact&hide_border=true)](https://github.com/ideategudy/github-readme-stats) |
