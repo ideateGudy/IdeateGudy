@@ -14,7 +14,7 @@
 
 **Core Expertise:**  
 - **Backend:** Node.js, Express, NestJS, AWS Serverless, Firebase, Supabase  
-- **Frontend:**  ReactJS, TypeScript
+- **Frontend:**  ReactJS, Tailwindcss, TypeScript
 - **Mobile**: Flutter
 
 ---
