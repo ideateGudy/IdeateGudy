@@ -24,7 +24,7 @@
 
 ---
 **Contact:**  
-- 📄 [View my CV](https://drive.google.com/file/d/1v0FPTDNjHQ2gOQj4h9t16TXvX-8CdcNg/view?usp=drive_link)  
+- 📄 [View my CV](https://drive.google.com/file/d/1XkLVsRE5IfDInGFCoLMXU0b1qaEmZCLV/view?usp=drive_link)  
 - 📧 azonubigoodnews@gmail.com  
 
 ---
