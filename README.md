@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Full-Stack Engineer | Node.js • TypeScript • AWS Serverless • Flutter
+# 👨🏽‍💻 Full-Stack Engineer | Node.js • TypeScript • AWS Serverless • Flutter •
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ideategudy)
 [![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ideateGudy)
